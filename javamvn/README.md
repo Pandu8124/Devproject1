@@ -1,1 +1,1 @@
-# mindcircuit13 - SAMPLE APP
+# Pandu- SAMPLE APP
